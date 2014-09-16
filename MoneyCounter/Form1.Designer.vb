@@ -288,6 +288,8 @@ Partial Class Form1
         Me.Controls.Add(Me.Dime)
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
+        Me.MaximumSize = New System.Drawing.Size(372, 264)
+        Me.MinimumSize = New System.Drawing.Size(372, 264)
         Me.Name = "Form1"
         Me.Text = "Money Counter"
         CType(Me.Dime, System.ComponentModel.ISupportInitialize).EndInit()
