@@ -1,0 +1,10 @@
+c:\users\george\documents\visual studio 2013\Projects\MoneyCounter\MoneyCounter\bin\Debug\MoneyCounter.exe.config
+c:\users\george\documents\visual studio 2013\Projects\MoneyCounter\MoneyCounter\bin\Debug\MoneyCounter.exe
+c:\users\george\documents\visual studio 2013\Projects\MoneyCounter\MoneyCounter\bin\Debug\MoneyCounter.pdb
+c:\users\george\documents\visual studio 2013\Projects\MoneyCounter\MoneyCounter\bin\Debug\MoneyCounter.xml
+c:\users\george\documents\visual studio 2013\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.Form1.resources
+c:\users\george\documents\visual studio 2013\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.Resources.resources
+c:\users\george\documents\visual studio 2013\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.vbproj.GenerateResource.Cache
+c:\users\george\documents\visual studio 2013\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.exe
+c:\users\george\documents\visual studio 2013\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.xml
+c:\users\george\documents\visual studio 2013\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.pdb
