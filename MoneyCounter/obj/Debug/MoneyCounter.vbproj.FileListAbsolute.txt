@@ -12,3 +12,9 @@ C:\Users\George\Documents\GitHub\vb-moneycounter\MoneyCounter\bin\Debug\MoneyCou
 C:\Users\George\Documents\GitHub\vb-moneycounter\MoneyCounter\obj\Debug\MoneyCounter.exe
 C:\Users\George\Documents\GitHub\vb-moneycounter\MoneyCounter\obj\Debug\MoneyCounter.xml
 C:\Users\George\Documents\GitHub\vb-moneycounter\MoneyCounter\obj\Debug\MoneyCounter.pdb
+C:\Users\George\Documents\GitHub\vb-moneycounter\MoneyCounter\bin\Debug\MoneyCounter.exe
+C:\Users\George\Documents\GitHub\vb-moneycounter\MoneyCounter\obj\Debug\MoneyCounter.Form1.resources
+C:\Users\George\Documents\GitHub\vb-moneycounter\MoneyCounter\obj\Debug\MoneyCounter.Resources.resources
+C:\Users\George\Documents\GitHub\vb-moneycounter\MoneyCounter\obj\Debug\MoneyCounter.vbproj.GenerateResource.Cache
+C:\Users\George\Documents\GitHub\vb-moneycounter\MoneyCounter\bin\Debug\MoneyCounter.pdb
+C:\Users\George\Documents\GitHub\vb-moneycounter\MoneyCounter\bin\Debug\MoneyCounter.xml
