@@ -8,3 +8,7 @@ c:\users\george\documents\visual studio 2013\Projects\MoneyCounter\MoneyCounter\
 c:\users\george\documents\visual studio 2013\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.exe
 c:\users\george\documents\visual studio 2013\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.xml
 c:\users\george\documents\visual studio 2013\Projects\MoneyCounter\MoneyCounter\obj\Debug\MoneyCounter.pdb
+C:\Users\George\Documents\GitHub\vb-moneycounter\MoneyCounter\bin\Debug\MoneyCounter.exe.config
+C:\Users\George\Documents\GitHub\vb-moneycounter\MoneyCounter\obj\Debug\MoneyCounter.exe
+C:\Users\George\Documents\GitHub\vb-moneycounter\MoneyCounter\obj\Debug\MoneyCounter.xml
+C:\Users\George\Documents\GitHub\vb-moneycounter\MoneyCounter\obj\Debug\MoneyCounter.pdb
